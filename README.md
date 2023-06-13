@@ -11,8 +11,8 @@ Azure Microsoft Internship Project
 - Included the Azure health bot and static webapps.
 - Has collection of many web pages including Home, About, Department,Contact and Azure etc.
 ## Problem Statement
-The Health Navigator  wants to build a sample Front End prototype website for scheduling an appointment .It will provide an interface between the patients and hospitals 
-Patients often encounter extended waiting times when trying to secure appointments. Extended waiting times can result in delayed diagnosis and treatment. Many healthcare facilities have complex appointment processes that involve multiple steps, such as calling different departments, providing detailed information, or  filling out extensive paperwork. By using the project Health Navigator website  patients can view the availability of healthcare providers in real-time and schedule appointments at their own convenience in online and it will avoid the Complex Appointment Processes and Long Waiting Times.
+Traditional education requires students to attend physical schools, which can be challenging for those living in remote or underserved areas and due to the  Fixed Timings and Schedules, which may not align with the individual needs and preferences of student. Attending physical schools often entails various expenses, including transportation, uniforms, textbooks, and sometimes tuition fees. These costs can be burdensome for families, particularly those with limited financial resources
+
 ## Problem Description
 The main core of this project is to build a sample Front End prototype  website with Azure Bot Services for scheduling an appointment with the help of HTML,CSS,JAVASCRIPT . The project Health Navigator is a  website that  will provide a interface between the patients and hospitals . 
 Many healthcare facilities have complex appointment processes that involve multiple steps, such as calling different departments, providing detailed information, or filling out extensive paperwork. The Complex Appointment Processes and Long Waiting Times these are the main two challenges faced by the patients. 
