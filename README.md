@@ -14,13 +14,16 @@ Azure Microsoft Internship Project
 Traditional education requires students to attend physical schools, which can be challenging for those living in remote or underserved areas and due to the  Fixed Timings and Schedules, which may not align with the individual needs and preferences of student. Attending physical schools often entails various expenses, including transportation, uniforms, textbooks, and sometimes tuition fees. These costs can be burdensome for families, particularly those with limited financial resources
 
 ## Problem Description
-The main core of this project is to build a sample Front End prototype  website with Azure Bot Services for scheduling an appointment with the help of HTML,CSS,JAVASCRIPT . The project Health Navigator is a  website that  will provide a interface between the patients and hospitals . 
-Many healthcare facilities have complex appointment processes that involve multiple steps, such as calling different departments, providing detailed information, or filling out extensive paperwork. The Complex Appointment Processes and Long Waiting Times these are the main two challenges faced by the patients. 
-Our project Health-Navigator will provide a interface between the patients and hospitals by using this Health-Navigator project patients can schedule  an appointment by their  own convenience without wasting the time and overcoming the complex paperwork 
-The  project Health Navigator is capable of providing the eco friendly services that will helps in  preventing the waste of time and helps the patients convenience .The  Complex Appointment Processes and Long Waiting Times are solved by an online appointment system, patients can save valuable time by avoiding long waiting periods and multiple phone calls 
-The  purpose of this project Health Navigator is to reduce the extended waiting time and complex appointment processes  for an  appointments. The Health Navigator project is  website the connects the patients and hospitals for easy access of appointment this project will save the time of the patients and reduce the complex paper works and prone to errors
-We are using the Azure technologies with HTML,CSS,JAVASCRIPT to complete the sample front end prototype with github 
+The Edu Connect is a Front End prototype by using  HTML,CSS, java script and bootstrap CSS with Azure Bot services and GitHub. The core idea of this project is to create a interface between the students and teachers. By using this project Edu Connect leads to Accessibility and Personalized Learning Experience of the student 
 
+Traditional education requires students to attend physical schools, which can be challenging for those living in remote or underserved areas ,these costs can be burdensome for families, particularly those with limited financial resources and due to the  Fixed Timings and Schedules, which may not align with the individual needs and preferences of student.
+
+The project Edu Connect provides the online classes for all the students at affordable prices.
+Edu Connect will overcome the Traditional education that requires students to attend physical schools, which can be challenging for those living in remote or underserved areas By using this website no need of physical appearance of the students and it is  low cost 
+
+The project Edu Connect will overcome the regular problems in present education system that are  Lack of Technological Integration ,Inequities & Inequalities, Fixed Timings and Schedule Limited Course Offerings .This project enhance the understanding capability of the students and it will be easy access to all the students. This project will meet the needs and fulfil the requirement of the problems 
+
+This project is done by using HTML,CSS, java script and bootstrap CSS with Azure Bot services and GitHub
 ## Azure Services Used:-
 - Azure Health Services
 - Static Web Apps
