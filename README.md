@@ -1,6 +1,6 @@
 # Edu-connect
 Azure Microsoft Internship Project
-- Project Link: 
+- Project Link: https://salmon-beach-0ba755d00.3.azurestaticapps.net
 - Demo Video Link: 
 
 ## Features and Functionalities:-
