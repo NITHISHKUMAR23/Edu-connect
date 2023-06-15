@@ -33,12 +33,25 @@ This project is done by using HTML,CSS, java script and bootstrap CSS with Azure
 ## Meeting
 
 
+![meet](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/66cac601-a4b5-4da2-a6d3-ea74ce396b69)
+![meet1](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/b7a8babc-6ddf-407d-9a60-96c429317918)
+![meet3](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/096a9400-a468-4cb4-a9af-7aa4661b7369)
+![meet4](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/4e562779-a5fd-4553-a39a-66f8b47a8991)
+![meet 5](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/78846a41-7a45-4afa-a7bd-329500c185ff)
+
+
 ## APPLY NOW
 
 ![apply](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/25a89d73-66ca-492a-8563-410bb6243ce9)
 ![apply1](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/751add9d-01aa-4320-95ca-e606e31a894a)
 
 ## Pages
+
+![pages](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/58985aed-108b-4be5-9b7c-5ca0bddde022)
+![pages2](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/03b253fb-f144-4aa4-a0dd-03e8702e411c)
+![pages3](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/584db464-2f33-47af-8014-108591d043e1)
+![pages4](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/5caa105f-3099-4fd8-9851-be1288439a5d)
+
 
 ## Courses
 
