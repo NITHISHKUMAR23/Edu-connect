@@ -30,17 +30,21 @@ This project is done by using HTML,CSS, java script and bootstrap CSS with Azure
 ## Home
 
 
-## About
+##Meeting
 
 
-## Department
+## APPLY NOW
 
+
+## Pages
+
+## Courses
 
 ## Contact
 
-## Azure Bot Services
 
-## Tech Stack 
+##AZURE
+
 
 
 - HTML
