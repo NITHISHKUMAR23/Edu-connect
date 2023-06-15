@@ -4,12 +4,12 @@ Azure Microsoft Internship Project
 - Demo Video Link: 
 
 ## Features and Functionalities:-
-- Interactive and responsive with the client and hospitals 
+- Interactive and responsive with the students and teacher
 - Have an aesthetically pleasing visual design and architecture.
-- User can know about health information through this website and easy to book an appiontment.
-- Has the locations of hospitals.
+- User can know about educational  information through this website and easy to learn the new technology
+- Has the locations of Institute.
 - Included the Azure health bot and static webapps.
-- Has collection of many web pages including Home, About, Department,Contact and Azure etc.
+- Has collection of many web pages including Home, Meeting,Courses,Apply,Pages,Contact and Azure etc.
 ## Problem Statement
 Traditional education requires students to attend physical schools, which can be challenging for those living in remote or underserved areas and due to the  Fixed Timings and Schedules, which may not align with the individual needs and preferences of student. Attending physical schools often entails various expenses, including transportation, uniforms, textbooks, and sometimes tuition fees. These costs can be burdensome for families, particularly those with limited financial resources
 
@@ -92,9 +92,10 @@ This project is done by using HTML,CSS, java script and bootstrap CSS with Azure
 ![azure3](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/dba9d4f0-37b1-43f8-8c36-51efbd86139e)
 
 
-
+## TECH STACK
 
 - HTML
 - CSS
+- BOOTSTRAP CSS
 - JavaScript
 - [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
