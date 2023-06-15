@@ -29,6 +29,15 @@ This project is done by using HTML,CSS, java script and bootstrap CSS with Azure
 - Static Web Apps
 ## Home
 
+![home1](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/982c6f4b-4767-4be8-a32f-310c4f968c4d)
+![home2](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/c5483fa3-f2f4-409e-ab00-0001d93f810a)
+![home3](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/ebb1e5c9-c598-4b33-88bf-15c341ab665a)
+![home4](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/d47fa02f-f748-4122-8c2c-1d4c3fe0dac0)
+![home5](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/c7d45d9a-2d6b-423c-951e-c396c3517154)
+![home6](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/b6738117-b42a-42a3-b9de-c4fe8209af3a)
+![home7](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/a99bfd73-f377-4f5b-8ac4-d5dec089d181)
+![home 8](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/4f80a474-7bf3-4cae-a836-b38b78d2a8b0)
+
 
 ## Meeting
 
@@ -56,6 +65,9 @@ This project is done by using HTML,CSS, java script and bootstrap CSS with Azure
 ## Courses
 
 ## Contact
+
+![contacts](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/d3600296-a647-4c1f-b262-8e66b05c14d9)
+![azure](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/83f2a2f1-b53f-4710-9fac-30bde2bceeb3)
 
 
 ## AZURE
