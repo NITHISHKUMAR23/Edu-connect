@@ -56,9 +56,9 @@ This project is done by using HTML,CSS, java script and bootstrap CSS with Azure
 ## Pages
 
 ![p1](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/8b2d5012-6d55-4f40-9842-2b6a47744c56)
-![p11](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/2924604c-75d7-4392-82ec-a294b89cfc13)
 ![pages](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/58985aed-108b-4be5-9b7c-5ca0bddde022)
 ![pages2](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/03b253fb-f144-4aa4-a0dd-03e8702e411c)
+![p11](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/2924604c-75d7-4392-82ec-a294b89cfc13)
 ![p112](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/5e7ec2fa-1995-47fd-8c68-c1f8235c151d)
 ![pages3](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/584db464-2f33-47af-8014-108591d043e1)
 ![pages4](https://github.com/NITHISHKUMAR23/Edu-connect/assets/114764945/5caa105f-3099-4fd8-9851-be1288439a5d)
